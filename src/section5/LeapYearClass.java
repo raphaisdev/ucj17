@@ -1,4 +1,4 @@
-package src;
+package src.section5;
 
 public class LeapYearClass {
     public static boolean isLeapYear(int year) {

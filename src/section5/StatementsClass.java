@@ -1,4 +1,4 @@
-package src;
+package src.section5;
 
 public class StatementsClass {
     public static void main(String[] args) {

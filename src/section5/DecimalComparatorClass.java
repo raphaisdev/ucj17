@@ -1,4 +1,4 @@
-package src;
+package src.section5;
 
 public class DecimalComparatorClass {
     public static boolean areEqualByThreeDecimalPlaces(double first, double second) {

@@ -1,4 +1,4 @@
-package src;
+package src.section5;
 
 public class PositiveNegativeZeroClass {
     public static void checkNumber(int number) {

@@ -1,4 +1,4 @@
-package src;
+package src.section5;
 
 public class SpeedConverterClass {
     public static void printConversion(double kilometersPerHour) {
